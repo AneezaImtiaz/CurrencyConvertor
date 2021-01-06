@@ -12,7 +12,7 @@
   "author": "Aneeza Imtiaz",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1"
   }
 }
